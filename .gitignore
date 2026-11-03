@@ -1,0 +1,12 @@
+.env
+.spotify_cache
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+.DS_Store
+.vscode/
+.idea/
